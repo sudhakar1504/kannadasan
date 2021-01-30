@@ -240,6 +240,13 @@ body{
         background-color:rgba(231, 225, 225, 0.377);
         opacity: 1;
     }
+    .books-sections h2,.books-sections h3{
+      border-bottom: 2px solid rgb(92, 90, 90);
+        font-size:1.4rem;
+      text-transform: capitalize;
+      color: rgb(93, 90, 90);
+      padding-bottom: 4px;
+  }
     .iframes{
         margin: 4px 5px 6px 4px;
         width: 100%;
